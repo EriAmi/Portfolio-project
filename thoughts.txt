@@ -1,0 +1,9 @@
+Portfolio project ideas
+
+Scrape own pages t.ex. weather.erikaminoff.com and show them on home pages
+edit summary and add stuff to the summary of the page through admin UI
+roles based edit aka ADMIN
+
+
+
+väderappen kan ha en kalender som visar vädret när man hovrar
