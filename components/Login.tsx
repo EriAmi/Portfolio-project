@@ -50,7 +50,7 @@ export default function Login() {
             type="submit"
             className="bg-blue-500 text-slate-100 rounded-md p-1 shadow-sm shadow-black hover:border-solid"
           >
-            Login now
+            Login
           </button>
         </form>
       </h1>
